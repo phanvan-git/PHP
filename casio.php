@@ -48,7 +48,7 @@
 	}
 ?>
 	<div class="content">
-		<h1>Mô phỏng máy tính điện tử</h1>
+		<h1>Mô phỏng máy tính điện tử by Van handsome</h1>
 		<form action="#" method="post" name="main-form">
 			<div class="row">
 				<span>Số thứ nhất</span>
