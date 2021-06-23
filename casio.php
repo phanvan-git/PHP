@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mô phỏng máy tính điện tử casio</title>
+<title>Mô phỏng máy tính điện tử casio by Van Handsome</title>
 <link type="text/css" href="style.css" rel="stylesheet" media="screen">
 </head>
 <body>
